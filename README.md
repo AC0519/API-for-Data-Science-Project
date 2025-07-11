@@ -1,5 +1,5 @@
 # API Portfolio Project
-This project demonstrates API coding best practices using Python and FastAPI.
+I am conducting this project to learn to build APIs for data science work.
 
-This project was built from examples from the book 
+This was built with examples from 
  [Hands-On APIs For API and Data Science](https://handsonapibook.com/).
